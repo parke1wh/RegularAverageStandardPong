@@ -23,3 +23,17 @@ To play:
 
 Use Keyboard Arrows
 
+1. Once the project is added and the correct editor is downloaded you can launch the game by clicking on it in the projects list
+2. This should initialize the game but will not have the "scene" required.
+3. In the bottom left you should have a "Projects" folder that is open. Inside this folder will be an "Assets" folder. Click on assets if it is not already opened (otherwise it will close).
+4. Inside this folder is a "Scenes" folder click on that, again if it isn't already open
+5. Double click the scene labeled "StartScreenScene.unity"
+6. The scene should populate in the top left "Hierarchy" 
+7. Click on Maximize scene on play for better visibility. Otherwise click the play icon in the top middle
+
+
+Note: You can select 1 or 2 players. Use keyboard arrows for player 1 and W & S keys for player 2. 1 player will play with AI.
+
+
+
+

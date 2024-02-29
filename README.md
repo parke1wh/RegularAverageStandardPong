@@ -1,11 +1,12 @@
 This is a showcase for a sophomore project in collaboration with multiple people 
 
 Contributions by
-Yelk11 NeighboM
-parke1wh
-zferguson24
+Yelk11 NeighboM,
+parke1wh,
+zferguson24,
 Maurice1299 
 
+*UNITY REQUIRED*
 To download and setup:
 1. Download the github zip file and extract to a folder of your choosing.
 2. Download unity and install, a free account may be required. 

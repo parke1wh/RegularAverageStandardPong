@@ -6,7 +6,7 @@ parke1wh,
 zferguson24,
 Maurice1299 
 
-*UNITY REQUIRED*
+- *UNITY REQUIRED* to play - 
 To download and setup:
 1. Download the github zip file and extract to a folder of your choosing.
 2. Download unity and install, a free account may be required. 
